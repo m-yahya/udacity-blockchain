@@ -1,0 +1,8 @@
+Wallet address:
+1FhssTwoAnCH92xgsWWuERwx3hDC6hzfhh
+
+Message:
+1FhssTwoAnCH92xgsWWuERwx3hDC6hzfhh: Udacity rocks!
+
+Signature:
+H5u8BXoLp4SknaOpPp3WUi8nFMSDVlgXihmjTSNmqZr/X6FUUM/72sJK0RmlbFSJL1YnkENOk4BDOMyiwvlkGoU=
